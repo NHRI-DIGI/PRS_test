@@ -1,5 +1,9 @@
 coffee
 1
 2
+<<<<<<< HEAD
 
 add ice
+=======
+3
+>>>>>>> 3278a89d2bcabffaa63e09fa85360d1dace37d3a
